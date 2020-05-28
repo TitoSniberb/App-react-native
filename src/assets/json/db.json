@@ -1,0 +1,446 @@
+{
+   "Pedidos": [
+      {
+         "idPedido": "183266",
+         "idServicio": "239545",
+         "FechaInicio": "2020-04-30T07:05+02:00",
+         "FechaFin": "2020-04-30T08:10+02:00",
+         "Tipo": "Aereo",
+         "idProveedor": "2",
+         "Asunto": "07:05 Madrid -- > Valencia",
+         "Ubicacion": "Madrid Airport",
+         "DireccionOrigen": "Madrid Airport",
+         "LatitudOrigen": 40.483936,
+         "LongitudOrigen": -3.5679514,
+         "Viajeros": [
+            {
+               "idViajero": "2",
+               "Nombre": "Juan Manuel, Rúbio Aguilera",
+               "Email": "jm.rubio@consultiatravel.es",
+               "Titular": false
+            }
+         ],
+         "Detalles": {
+            "DuracionHoras": "01:05:00",
+            "Aerolinea": "Air Europa",
+            "SalidaIATA": "MAD",
+            "SalidaNombreAeropuerto": "Adolfo Suárez Madrid Barajas International Airport",
+            "SalidaCiudad": "Madrid",
+            "LlegadaIATA": "VLC",
+            "LlegadaNombreAeropuerto": "Valencia Airport",
+            "LlegadaCiudad": "Valencia",
+            "NVuelo": "UX-4063",
+            "Localizador": "NETVJX",
+            "Adjuntos": null,
+            "DireccionDestino": "Aeropuerto de Valencia (VLC), 46940 Manises, Valencia, Valencia, España",
+            "LatitudDestino": 39.48923,
+            "LongitudDestino": -0.4780256
+         }
+      },
+      {
+         "idPedido": "183268",
+         "idServicio": "239547",
+         "FechaInicio": "2020-04-02T07:05+02:00",
+         "FechaFin": "2020-04-02T08:10+02:00",
+         "Tipo": "Aereo",
+         "idProveedor": "2",
+         "Asunto": "07:05 Madrid -- > Valencia",
+         "Ubicacion": "Madrid Airport",
+         "DireccionOrigen": "Madrid Airport",
+         "LatitudOrigen": 40.483936,
+         "LongitudOrigen": -3.5679514,
+         "Viajeros": [
+            {
+               "idViajero": "2",
+               "Nombre": "Juan Manuel, Rúbio Aguilera",
+               "Email": "jm.rubio@consultiatravel.es",
+               "Titular": false
+            }
+         ],
+         "Detalles": {
+            "DuracionHoras": "01:05:00",
+            "Aerolinea": "Air Europa",
+            "SalidaIATA": "MAD",
+            "SalidaNombreAeropuerto": "Adolfo Suárez Madrid Barajas International Airport",
+            "SalidaCiudad": "Madrid",
+            "LlegadaIATA": "VLC",
+            "LlegadaNombreAeropuerto": "Valencia Airport",
+            "LlegadaCiudad": "Valencia",
+            "NVuelo": "UX-4063",
+            "Localizador": "SW98U5",
+            "Adjuntos": [
+               {
+                  "idAdjunto": "203806",
+                  "Nombre": "Resumen",
+                  "Tipo": "pdf"
+               }
+            ],
+            "DireccionDestino": "Aeropuerto de Valencia (VLC), 46940 Manises, Valencia, Valencia, España",
+            "LatitudDestino": 39.48923,
+            "LongitudDestino": -0.4780256
+         }
+      },
+      {
+         "idPedido": "183266",
+         "idServicio": "239545",
+         "FechaInicio": "2020-04-02T19:35+02:00",
+         "FechaFin": "2020-04-02T20:45+02:00",
+         "Tipo": "Aereo",
+         "idProveedor": "2",
+         "Asunto": "19:35 Valencia -- > Madrid",
+         "Ubicacion": "Aeropuerto De Valencia (Vlc), 46940 Manises, Valencia, Valencia, España",
+         "DireccionOrigen": "Aeropuerto de Valencia (VLC), 46940 Manises, Valencia, Valencia, España",
+         "LatitudOrigen": 39.48923,
+         "LongitudOrigen": -0.4780256,
+         "Viajeros": [
+            {
+               "idViajero": "2",
+               "Nombre": "Juan Manuel, Rúbio Aguilera",
+               "Email": "jm.rubio@consultiatravel.es",
+               "Titular": false
+            }
+         ],
+         "Detalles": {
+            "DuracionHoras": "01:10:00",
+            "Aerolinea": "Air Europa",
+            "SalidaIATA": "VLC",
+            "SalidaNombreAeropuerto": "Valencia Airport",
+            "SalidaCiudad": "Valencia",
+            "LlegadaIATA": "MAD",
+            "LlegadaNombreAeropuerto": "Adolfo Suárez Madrid Barajas International Airport",
+            "LlegadaCiudad": "Madrid",
+            "NVuelo": "UX-4060",
+            "Localizador": "NETVJX",
+            "Adjuntos": null,
+            "DireccionDestino": "Madrid Airport",
+            "LatitudDestino": 40.483936,
+            "LongitudDestino": -3.5679514
+         }
+      },
+      {
+         "idPedido": "183268",
+         "idServicio": "239547",
+         "FechaInicio": "2020-04-02T12:05+02:00",
+         "FechaFin": "2020-04-02T13:15+02:00",
+         "Tipo": "Aereo",
+         "idProveedor": "2",
+         "Asunto": "12:05 Valencia -- > Madrid",
+         "Ubicacion": "Aeropuerto De Valencia (Vlc), 46940 Manises, Valencia, Valencia, España",
+         "DireccionOrigen": "Aeropuerto de Valencia (VLC), 46940 Manises, Valencia, Valencia, España",
+         "LatitudOrigen": 39.48923,
+         "LongitudOrigen": -0.4780256,
+         "Viajeros": [
+            {
+               "idViajero": "2",
+               "Nombre": "Juan Manuel, Rúbio Aguilera",
+               "Email": "jm.rubio@consultiatravel.es",
+               "Titular": false
+            }
+         ],
+         "Detalles": {
+            "DuracionHoras": "01:10:00",
+            "Aerolinea": "Air Europa",
+            "SalidaIATA": "VLC",
+            "SalidaNombreAeropuerto": "Valencia Airport",
+            "SalidaCiudad": "Valencia",
+            "LlegadaIATA": "MAD",
+            "LlegadaNombreAeropuerto": "Adolfo Suárez Madrid Barajas International Airport",
+            "LlegadaCiudad": "Madrid",
+            "NVuelo": "UX-4064",
+            "Localizador": "SW98U5",
+            "Adjuntos": [
+               {
+                  "idAdjunto": "203806",
+                  "Nombre": "Resumen",
+                  "Tipo": "pdf"
+               }
+            ],
+            "DireccionDestino": "Madrid Airport",
+            "LatitudDestino": 40.483936,
+            "LongitudDestino": -3.5679514
+         }
+      },
+      {
+         "idPedido": "183262",
+         "idServicio": "239541",
+         "FechaInicio": "2020-04-05T12:00+02:00",
+         "FechaFin": "2020-04-08T12:00+02:00",
+         "Tipo": "Hotel",
+         "idProveedor": "1259",
+         "Asunto": "Hotel Restel Test Prueba",
+         "Ubicacion": "Avenida De Los Auxliios S/N",
+         "DireccionOrigen": "Avenida de los auxliios S/N",
+         "LatitudOrigen": 66.9183,
+         "LongitudOrigen": -44.32466,
+         "Viajeros": [
+            {
+               "idViajero": "2",
+               "Nombre": "Juan Manuel, Rúbio Aguilera",
+               "Email": "jm.rubio@consultiatravel.es",
+               "Titular": false
+            },
+            {
+               "idViajero": "3",
+               "Nombre": "Aldimir, Aleksandrov Stanizarov",
+               "Email": "aldimir.aleksandrov@consultiatravel.es",
+               "Titular": false
+            }
+         ],
+         "Detalles": {
+            "NombreHotel": "Hotel Restel Test Prueba",
+            "Direccion": "Avenida De Los Auxliios S/N",
+            "Regimen": "Alojam. y Desayuno",
+            "TipoHabitacion": "Individual",
+            "Localizador": "JJJJJJ",
+            "Adjuntos": [
+               {
+                  "idAdjunto": "203802",
+                  "Nombre": "5345_1",
+                  "Tipo": "pdf"
+               }
+            ],
+            "DireccionDestino": "Avenida de los auxliios S/N",
+            "LatitudDestino": 66.9183,
+            "LongitudDestino": -44.32466
+         }
+      },
+      {
+         "idPedido": "183267",
+         "idServicio": "239546",
+         "FechaInicio": "2020-04-06T12:00+02:00",
+         "FechaFin": "2050-04-09T12:00+02:00",
+         "Tipo": "Hotel",
+         "idProveedor": "1259",
+         "Asunto": "Hotel Restel Test Prueba",
+         "Ubicacion": "Avenida De Los Auxliios S/N",
+         "DireccionOrigen": "Avenida de los auxliios S/N",
+         "LatitudOrigen": 66.9183,
+         "LongitudOrigen": -44.32466,
+         "Viajeros": [
+            {
+               "idViajero": "2",
+               "Nombre": "Juan Manuel, Rúbio Aguilera",
+               "Email": "jm.rubio@consultiatravel.es",
+               "Titular": false
+            }
+         ],
+         "Detalles": {
+            "NombreHotel": "Hotel Restel Test Prueba",
+            "Direccion": "Avenida De Los Auxliios S/N",
+            "Regimen": "Alojam. y Desayuno",
+            "TipoHabitacion": "Individual",
+            "Localizador": "",
+            "Adjuntos": null,
+            "DireccionDestino": "Avenida de los auxliios S/N",
+            "LatitudDestino": 66.9183,
+            "LongitudDestino": -44.32466
+         }
+      },
+      {
+         "idPedido": "183268",
+         "idServicio": "249570",
+         "FechaInicio": "2020-04-06T12:00+02:00",
+         "FechaFin": "2020-04-07T12:00+02:00",
+         "Tipo": "Hotel",
+         "idProveedor": "7",
+         "Asunto": "Nh Valencia Center",
+         "Ubicacion": "Carrer De Ricardo Micó, 1, 46009 València, Valencia, España",
+         "DireccionOrigen": "Carrer de Ricardo Micó, 1, 46009 València, Valencia, España",
+         "LatitudOrigen": 39.480988,
+         "LongitudOrigen": -0.38738,
+         "Viajeros": [
+            {
+               "idViajero": "2",
+               "Nombre": "Juan Manuel, Rúbio Aguilera",
+               "Email": "jm.rubio@consultiatravel.es",
+               "Titular": false
+            },
+            {
+               "idViajero": "3",
+               "Nombre": "Aldimir, Aleksandrov Stanizarov",
+               "Email": "aldimir.aleksandrov@consultiatravel.es",
+               "Titular": false
+            }
+         ],
+         "Detalles": {
+            "NombreHotel": "Nh Valencia Center",
+            "Direccion": "Carrer De Ricardo Micó, 1, 46009 València, Valencia, España",
+            "Regimen": "Sólo Alojamiento",
+            "TipoHabitacion": "Individual",
+            "Localizador": "123382066",
+            "Adjuntos": [
+               {
+                  "idAdjunto": "203810",
+                  "Nombre": "Esto es una prueba1",
+                  "Tipo": "pdf"
+               }
+            ],
+            "DireccionDestino": "Carrer de Ricardo Micó, 1, 46009 València, Valencia, España",
+            "LatitudDestino": 39.480988,
+            "LongitudDestino": -0.38738
+         }
+      },
+      {
+         "idPedido": "173248",
+         "idServicio": "229529",
+         "FechaInicio": "2020-04-08T10:30+02:00",
+         "FechaFin": "2020-04-08T12:30+02:00",
+         "Tipo": "Coche",
+         "idProveedor": "38",
+         "Asunto": "Recogida 10:30:00 En Valencia",
+         "Ubicacion": "C/ San Vicente Martir 190",
+         "DireccionOrigen": "C/ SAN VICENTE MARTIR 190",
+         "LatitudOrigen": 39.45969,
+         "LongitudOrigen": -0.38318,
+         "Viajeros": [
+            {
+               "idViajero": "2",
+               "Nombre": "Juan Manuel, Rúbio Aguilera",
+               "Email": "jm.rubio@consultiatravel.es",
+               "Titular": false
+            }
+         ],
+         "Detalles": {
+            "Categoria": "Mini",
+            "Tipo": "Coche",
+            "Transmision": "Manual Unspecified Drive",
+            "Combustible_AC": "Unspecified Fuel/Power With Air",
+            "DireccionRecogida": "C/ San Vicente Martir 190",
+            "DireccionEntrega": "C/ San Vicente Martir 190",
+            "Proveedor": "Sixt Rent a Car",
+            "Ubicacion": null,
+            "Localizador": "9864225651",
+            "Adjuntos": [
+               {
+                  "idAdjunto": "183790",
+                  "Nombre": "Resumen",
+                  "Tipo": "pdf"
+               }
+            ],
+            "DireccionDestino": "C/ SAN VICENTE MARTIR 190",
+            "LatitudDestino": 39.45969,
+            "LongitudDestino": -0.38318
+         }
+      },
+      {
+         "idPedido": "183265",
+         "idServicio": "239544",
+         "FechaInicio": "2018-08-08T10:30+02:00",
+         "FechaFin": "2018-08-09T12:30+02:00",
+         "Tipo": "Coche",
+         "idProveedor": "38",
+         "Asunto": "Recogida 10:30:00 En Valencia",
+         "Ubicacion": "C/ San Vicente Martir 190",
+         "DireccionOrigen": "C/ SAN VICENTE MARTIR 190",
+         "LatitudOrigen": 39.45969,
+         "LongitudOrigen": -0.38318,
+         "Viajeros": [
+            {
+               "idViajero": "2",
+               "Nombre": "Juan Manuel, Rúbio Aguilera",
+               "Email": "jm.rubio@consultiatravel.es",
+               "Titular": false
+            }
+         ],
+         "Detalles": {
+            "Categoria": "Mini",
+            "Tipo": "Coche",
+            "Transmision": "Manual Unspecified Drive",
+            "Combustible_AC": "Unspecified Fuel/Power With Air",
+            "DireccionRecogida": "C/ San Vicente Martir 190",
+            "DireccionEntrega": "C/ San Vicente Martir 190",
+            "Proveedor": "Sixt Rent a Car",
+            "Ubicacion": null,
+            "Localizador": "9864260609",
+            "Adjuntos": [
+               {
+                  "idAdjunto": "193794",
+                  "Nombre": "Resumen",
+                  "Tipo": "pdf"
+               }
+            ],
+            "DireccionDestino": "C/ SAN VICENTE MARTIR 190",
+            "LatitudDestino": 39.45969,
+            "LongitudDestino": -0.38318
+         }
+      },
+      {
+         "idPedido": "183269",
+         "idServicio": "239548",
+         "FechaInicio": "2020-04-29T12:40+02:00",
+         "FechaFin": "2020-04-29T14:22+02:00",
+         "Tipo": "Tren",
+         "idProveedor": "3",
+         "Asunto": "12:40 Madrid Puerta De Atocha --> Valencia Joaquín Sorolla",
+         "Ubicacion": "Madrid Puerta De Atocha",
+         "DireccionOrigen": "Madrid-Puerta de Atocha, 28045 Madrid, Madrid, España",
+         "LatitudOrigen": 40.40644,
+         "LongitudOrigen": -3.690886,
+         "Viajeros": [
+            {
+               "idViajero": "2",
+               "Nombre": "Juan Manuel, Rúbio Aguilera",
+               "Email": "jm.rubio@consultiatravel.es",
+               "Titular": false
+            }
+         ],
+         "Detalles": {
+            "Proveedor": "Renfe",
+            "TipoTren": "AVE/05120",
+            "Clase": "Turista",
+            "EstacionOrigen": "MADRID PUERTA DE ATOCHA",
+            "EstacionDestino": "VALENCIA JOAQUÍN SOROLLA",
+            "Localizador": "YPR8W7",
+            "Adjuntos": [
+               {
+                  "idAdjunto": "193795",
+                  "Nombre": "Billetes YPR8W7",
+                  "Tipo": "Pdf"
+               }
+            ],
+            "DireccionDestino": "Calle San Vicente Mártir, 165, 46007 Valencia, Valencia, España",
+            "LatitudDestino": 39.460854,
+            "LongitudDestino": -0.3824567
+         }
+      },
+      {
+         "idPedido": "193277",
+         "idServicio": "249572",
+         "FechaInicio": "2020-04-24T00:00+01:00",
+         "FechaFin": "2020-04-24T00:00+01:00",
+         "Tipo": "Barco",
+         "idProveedor": "48",
+         "Asunto": "00:00 Valencia Puerto --> Palma Puerto",
+         "Ubicacion": "Valencia Puerto",
+         "DireccionOrigen": "Disseminat Aparcamiento Sector H",
+         "LatitudOrigen": 39.44808510000000,
+         "LongitudOrigen": -0.31692670000000,
+         "Viajeros": [
+             {
+                 "idViajero": "28030",
+                 "Nombre": "Usuario, DEMO",
+                 "Email": "demo@consultiatravel.es",
+                 "Titular": false
+             }
+         ],
+         "Detalles": {
+             "Proveedor": "Transmediterranea",
+             "Acomodacion": "butaca",
+             "Origen": "valencia puerto",
+             "Destino": "palma puerto",
+             "Vehiculos": null,
+             "Localizador": "111111",
+             "Adjuntos": null,
+             "DireccionDestino": "Disseminat Aparcamiento Sector H, 10, 07012 Palma, Illes Balears, España",
+             "LatitudDestino": 39.55753080000000,
+             "LongitudDestino": 2.63195610000000
+         }
+     }
+   ],
+   "DiccionarioLogos": [
+      {
+         "IATA": "UX",
+         "Logo": "data:image/png;base64,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"
+      }
+   ]
+}
